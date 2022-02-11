@@ -958,6 +958,7 @@ button[type=submit]:hover {
   }
 
   .menu__list {
+    display: none;
     max-width: 320px;
     min-height: 150px;
     position: absolute;
